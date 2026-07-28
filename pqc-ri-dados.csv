@@ -1,0 +1,21 @@
+Operadora,Pais,A_RAM_minima,B_Heterogeneidade,C_Controle_firmware,D_Risco_fragmentacao_UDP,E_Maturidade_institucional,F_Dependencia_infra_externa,G_Suporte_corporativo,Score_PQC-RI,Prontidao
+Movistar,CO,3,3,4,3,4,3,4,85.0,Muito favoravel
+TIM,BR,2,4,4,4,4,3,3,83.8,Muito favoravel
+Vivo,BR,3,3,4,4,3,4,2,82.5,Muito favoravel
+Claro,BR,1,0,2,2,2,3,2,37.5,Desfavoravel
+Telmex,MX,1,1,0,3,1,3,2,32.5,Desfavoravel
+Claro Dominicana,RD,0,0,1,2,3,0,2,25.0,Desfavoravel
+ISPs Regionais,BR,1,1,1,0,1,3,0,21.3,Desfavoravel
+COPACO,PY,0,1,0,1,0,0,0,7.5,Muito desfavoravel
+
+Pesos dos criterios (wi):
+A_RAM_minima,0.25
+B_Heterogeneidade,0.15
+C_Controle_firmware,0.20
+D_Risco_fragmentacao_UDP,0.15
+E_Maturidade_institucional,0.10
+F_Dependencia_infra_externa,0.05
+G_Suporte_corporativo,0.10
+
+Formula: PQC-RI = 25 * soma(wi * ni), onde ni pertence a [0,4], 0 = pior condicao, 4 = melhor condicao
+Faixas: 0-20 Muito desfavoravel | 21-40 Desfavoravel | 41-60 Intermediaria | 61-80 Favoravel | 81-100 Muito favoravel
