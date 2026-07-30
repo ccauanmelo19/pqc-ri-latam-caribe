@@ -1,7 +1,6 @@
 # pqc-ri-latam-caribe
 
-Dados de suporte do artigo "Prontidão da Infraestrutura de Rede para Criptografia
-Pós-Quântica em DNSSEC e TLS na América Latina e Caribe", submetido ao Encom 2026
+Dados de suporte do artigo "Avaliação Exploratória da Prontidão da Infraestrutura de Rede para Criptografia Pós-Quântica em DNSSEC e TLS na América Latina e Caribe", submetido ao Encom 2026
 (XVI Conferência Nacional em Comunicações, Redes e Segurança da Informação).
 
 Autores: Cauan M. Sousa, Rafael W. Cavalcanti, Mariana B. M. Sabino,
