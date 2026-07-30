@@ -1,0 +1,12 @@
+Operadora,Pais,Score_bruto_soma_wi_ni_0a4,Score_PQC-RI_0a100_exato,Score_PQC-RI_0a100_arredondado,Condicao_estrutural
+Movistar,CO,3.40,85.0,85,Muito favoravel
+TIM,BR,3.35,83.75,84,Muito favoravel
+Vivo,BR,3.30,82.5,83,Muito favoravel
+Claro,BR,1.50,37.5,38,Desfavoravel
+Telmex,MX,1.30,32.5,33,Desfavoravel
+Claro Dominicana,RD,1.00,25.0,25,Desfavoravel
+ISPs Regionais,BR,0.85,21.25,21,Desfavoravel
+COPACO,PY,0.30,7.5,8,Muito desfavoravel
+
+Regra de arredondamento: comercial (0,5 arredonda para cima), aplicada ao score em escala 0-100 apos multiplicacao pela constante 25.
+Faixas de classificacao (aplicadas ao score arredondado): 0-20 Muito desfavoravel | 21-40 Desfavoravel | 41-60 Intermediaria | 61-80 Favoravel | 81-100 Muito favoravel

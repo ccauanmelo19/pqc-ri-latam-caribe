@@ -1,0 +1,9 @@
+Fabricante,Modelo,Perfil,CPU,RAM,Condicao_estimada,Fonte_datasheet,Data_consulta
+Huawei,XGS-PON (EchoLife/NetEngine series),Tier 1,ARM Cortex-A53,512MB-1GB,Favoravel,"Huawei Technologies - EchoLife HG8245H Product Description; NetEngine AR6000 series enterprise routers (carrier.huawei.com; e.huawei.com)",2026-03
+Huawei,GPON (HG8245H),Tier 1,ARM Cortex-A7/A9,128-256MB,Intermediaria,"Huawei Technologies - EchoLife HG8245H Product Description - GPON Terminal (carrier.huawei.com)",2026-03
+MikroTik,CCR2004,WISP,ARM Cortex-A72,4-8GB,Muito favoravel,"MikroTik - RouterOS Documentation, CCR2004 series (mikrotik.com/products)",2026-03
+MikroTik,CCR1036,WISP,Tilera Tile-Gx36,4-8GB,Intermediaria,"MikroTik - RouterOS Documentation, CCR1036 series (mikrotik.com/products)",2026-03
+MikroTik,hAP,WISP,ARM Cortex-A7,128-256MB,Muito restrita,"MikroTik - DNS, RouterOS Documentation (help.mikrotik.com)",2026-03
+Ubiquiti,EdgeRouter ER-4/ER-12,WISP,MIPS64,1GB,Restrita,"Ubiquiti Inc. - EdgeRouter Datasheet (dl.ubnt.com)",2026-03
+Ubiquiti,EdgeRouter ER-X,WISP,MIPS64,256MB,Muito restrita,"Ubiquiti Inc. - EdgeRouter Quality of Service (QoS) documentation (help.uisp.com)",2026-03
+TP-Link,Roteadores Wi-Fi residenciais (linha SOHO),Consumer/SOHO,MIPS 74Kc,64MB,Muito restrita,"TP-Link - Roteadores Wi-Fi residenciais (tp-link.com)",2026-03
